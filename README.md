@@ -225,7 +225,6 @@ flowchart TD
 └── dashbord_G4A.zip
 ```
 
-> 当前工作副本包含分析结果 CSV 与 Power BI 交付物，尚未包含 SQL / Python 源文件。README 中的数据模型与指标口径对应本项目分析流程；如用于作品集公开展示，建议后续补充可复现的查询脚本。
 
 ## Skills Demonstrated
 
