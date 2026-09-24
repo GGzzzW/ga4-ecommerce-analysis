@@ -1,0 +1,70 @@
+# Project-specific archive (generated Power BI dashboard export)
+dashbord_G4A.zip
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Test, type-checking, lint, and coverage caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs, temporary files, and editor backups
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+~$*
+
+# Local raw or intermediate data
+data/raw/
+raw_data/
+data/export/
+data/temp/
+*.parquet
+
+# Environment variables and credentials
+.env
+.env.*
+*.env
+!.env.example
+secrets/
+credentials/
+*.key
+
+# Local databases and caches
+*.db
+*.sqlite
+*.sqlite3
